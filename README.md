@@ -44,8 +44,8 @@ Figure -01 PROM
 ### PROGRAM 
 ```
 Program for PROM 
-Developed by: RAGUL VK
-RegisterNumber:  212221240043
+Developed by: BAIRAVSKANDAN L
+RegisterNumber:  212221230106
 
 module ten(out,addr,clk);
 output[15:0] out;
